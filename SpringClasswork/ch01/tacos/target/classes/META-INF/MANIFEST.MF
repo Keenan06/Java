@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: keenanpienaar
+Build-Jdk: 17.0.1
+Implementation-Title: taco-cloud
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sia
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/taco-cloud
+Created-By: Maven Integration for Eclipse
+
